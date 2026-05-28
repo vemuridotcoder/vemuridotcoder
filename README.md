@@ -1,13 +1,13 @@
 Hi, I'm Abhiram Vemuri
 
-Machine Learning Developer | BTech Student
-Building production-ready ML systems and real-world AI applications.
+Python Developer | BTech Student
+Building production-ready systems and real-world AI applications.
 
 ---
 
 🚀 What I Do
 
-- Design and deploy end-to-end ML pipelines (training → API → deployment)
+- Design and deploy end-to-end pipelines (training → API → deployment)
 - Build RAG-based systems from scratch (without heavy frameworks)
 - Focus on practical impact — not just models, but usable systems
 
@@ -37,8 +37,7 @@ Building production-ready ML systems and real-world AI applications.
 
 Languages & Tools: Python, SQL
 Frameworks: FastAPI
-ML & AI: Scikit-learn, XGBoost, NLP, Embeddings
-Systems: REST APIs, Vector Search, PostgreSQL
+ML & AI: Scikit-learn, XGBoost
 
 ---
 
